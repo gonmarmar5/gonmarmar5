@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my Undergraduate Thesis Project about AI](https://github.com/alvvazort/AIDrone)
 
-- 💬 I'm native speaker in Spanish and have a certified C1 in English, B2 in Portuguese and B2 in French.
+- 💬 I'm native speaker in Spanish and have a certified C1 in English, B2 in Portuguese and French.
 
 - 📫 You can reach me by email **gonmarmar5@alum.us.es**
 

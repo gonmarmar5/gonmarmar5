@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate software engineer from Seville,Spain</h3>
 
-- 🌱 I’m currently finishing my last year of Software engineering in University of Seville
+- 🌱 I’m currently finishing my last year of Artificial Inteligence Master at Polytechnic University of Madrid.
 
-- 🔭 I’m currently working on [my Undergraduate Thesis Project about AI](https://github.com/alvvazort/AIDrone)
+- 🔭 I’m currently working on [my Master's Thesis about Bayesian Parameters Optimization](https://github.com/gonmarmar5/BayesPPO-SMAC3)
 
 - 💬 I'm native speaker in Spanish and have a certified C1 in English, B2 in Portuguese and French.
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">A passionate software engineer from Seville,Spain</h3>
+<h3 align="center">A passionate software engineer from Seville, Spain</h3>
 
 - 🌱 I’m currently finishing my last year of Artificial Inteligence Master at Polytechnic University of Madrid.
 

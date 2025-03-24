@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate software engineer from Seville, Spain</h3>
 
-- 🌱 I’m currently finishing my last year of Artificial Inteligence Master at Polytechnic University of Madrid.
+- 🌱 I’ve just finished in 2024 an Artificial Intelligence Master at Polytechnic University of Madrid.
 
-- 🔭 I’m currently working on [my Master's Thesis about Bayesian Parameters Optimization](https://github.com/gonmarmar5/BayesPPO-SMAC3)
+- 🔭 I’m currently working on Calímaco Technologies S.L. as a Artificial Intelligence Developer.
 
 - 💬 I'm native speaker in Spanish and have a certified C1 in English, B2 in Portuguese and French.
 

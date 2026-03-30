@@ -3,7 +3,7 @@
 
 - 🌱 I’ve just finished in 2024 an Artificial Intelligence Master at Polytechnic University of Madrid.
 
-- 🔭 I’m currently working on Calímaco Technologies S.L. as a Artificial Intelligence Developer.
+- 🔭 I’m currently working on Deutz Global Service Center. as a Artificial Intelligence Developer.
 
 - 💬 I'm native speaker in Spanish and have a certified C1 in English, B2 in Portuguese and French.
 

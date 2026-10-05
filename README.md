@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate software engineer from Seville, Spain</h3>
 
-- 🌱 I’ve just finished in 2024 an Artificial Intelligence Master at Polytechnic University of Madrid.
-
 - 🔭 I’m currently working on Hiberus as an Artificial Intelligence Developer.
+
+- 🌱 I’ve finished in 2024 an Artificial Intelligence Master at Polytechnic University of Madrid.
 
 - 💬 I'm native speaker in Spanish and have a certified C1 in English, B2 in Portuguese and French.
 
